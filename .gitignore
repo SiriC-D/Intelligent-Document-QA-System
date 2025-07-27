@@ -1,0 +1,7 @@
+.env
+__pycache__/
+venv/
+*.pyc
+.streamlit/
+chroma_db/
+list_models.py
